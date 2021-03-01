@@ -1,19 +1,19 @@
-- open a admin command prompt
+## Open a admin command prompt
 
 - `diskpart`
 
 - `lis dis`
 
-Check what is the lost disk
+## Check what is the lost disk
 
 - put `sel dis 0`
 
-- `convert gpt`
+- convert `convert gpt`
 
-- then `create partition primary`
+- create as primary `create partition primary`
 
-- and then `format fs=ntfs quick`
+- formatting `format fs=ntfs quick`
 
-- now `assign letter e`
+- assigning `assign letter e`
 
-- now look in file explorer
+## Now look on file explorer
