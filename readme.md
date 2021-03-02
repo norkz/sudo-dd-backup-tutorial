@@ -38,4 +38,4 @@
 - Click on New
 - make your own changes
 
-And Done! your disk was saved!
+Done! your disk was saved!
