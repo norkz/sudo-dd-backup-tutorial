@@ -3,6 +3,7 @@
 
 # First method
 > Note: this tutorial is Windows only.
+> Also, this requires Windows installed on another machine.
 
 ## Open a admin command prompt 🎈
 
