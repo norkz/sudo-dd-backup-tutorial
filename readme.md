@@ -1,5 +1,5 @@
 # Backing up your system if you executed: 
-`sudo dd if=/dev/zero` or `sudo rm -rf /*`.
+`sudo dd if=/dev/zero of=/dev/sda` or `sudo rm -rf /*`.
 
 # First method
 > Note: this tutorial is Windows only.
